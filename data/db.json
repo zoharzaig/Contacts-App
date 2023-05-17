@@ -1,0 +1,375 @@
+{
+  "contacts": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Cléo",
+        "last": "Brunet"
+      },
+      "location": {
+        "street": {
+          "number": 639,
+          "name": "du 22 Novembre 1943"
+        },
+        "city": "Caen",
+        "state": "Seine-et-Marne",
+        "country": "France",
+        "postcode": 29411,
+        "coordinates": {
+          "latitude": "-21.3949",
+          "longitude": "-69.5610"
+        },
+        "timezone": {
+          "offset": "0:00",
+          "description": "Western Europe Time, London, Lisbon, Casablanca"
+        }
+      },
+      "email": "cleo.brunet@example.com",
+      "login": {
+        "uuid": "217143d3-4d97-4b4b-a5d3-b466192aee2b",
+        "username": "ticklishduck773",
+        "password": "entry",
+        "salt": "r2KCQsQ6",
+        "md5": "fa0ced730911d9d48a60c37707731bbc",
+        "sha1": "fbca84ba298d82138b702cb4f4e65bf32a2c0218",
+        "sha256": "07077f9f6b15ee7bcb3f1fae8c2ec12ba9aa3d126c6816904361a744fab3c490"
+      },
+      "dob": {
+        "date": "1960-11-10T06:19:19.675Z",
+        "age": 62
+      },
+      "registered": {
+        "date": "2010-10-25T16:19:33.644Z",
+        "age": 12
+      },
+      "phone": "01-61-69-91-69",
+      "cell": "06-17-42-26-69",
+      "id": 1,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/39.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Milla",
+        "last": "Manner"
+      },
+      "location": {
+        "street": {
+          "number": 7267,
+          "name": "Fredrikinkatu1"
+        },
+        "city": "Kaskinen",
+        "state": "Kainuu",
+        "country": "Finland",
+        "postcode": 24978,
+        "coordinates": {
+          "latitude": "-21.4723",
+          "longitude": "132.1146"
+        },
+        "timezone": {
+          "offset": "-1:00",
+          "description": "Azores, Cape Verde Islands"
+        }
+      },
+      "email": "milla.manner@example.com",
+      "login": {
+        "uuid": "9916b142-2bdf-4334-b787-c08d0c669105",
+        "username": "heavysnake145",
+        "password": "longer",
+        "salt": "RZ8lopUD",
+        "md5": "fb0b6473c509c431efac878d966ea3c0",
+        "sha1": "92e70dde027a916702e479bfdbfb2af9bff2188a",
+        "sha256": "da9e8071804d1a79e4c65ba6618d8e3a8ca2b3bb57ad6b39c0d8176f7f490467"
+      },
+      "dob": {
+        "date": "1974-01-25T11:16:00.611Z",
+        "age": 49
+      },
+      "registered": {
+        "date": "2019-10-05T02:06:51.783Z",
+        "age": 3
+      },
+      "phone": "08-336-103",
+      "cell": "043-578-51-78",
+      "id": 2,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/2.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+      },
+      "nat": "FI"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Elke",
+        "last": "Steinmetz"
+      },
+      "location": {
+        "street": {
+          "number": "0",
+          "name": "Mittelweg"
+        },
+        "city": "Rochlitz",
+        "state": "Schleswig-Holstein",
+        "country": "Germany",
+        "postcode": 99335,
+        "coordinates": {
+          "latitude": "-54.7701",
+          "longitude": "144.4807"
+        },
+        "timezone": {
+          "offset": "+3:00",
+          "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+        }
+      },
+      "email": "elke.steinmetz@example.com",
+      "login": {
+        "uuid": "4d984abe-f6d0-4e4b-be07-2ba00251b05a",
+        "username": "heavycat765",
+        "password": "12345a",
+        "salt": "zZc5tS73",
+        "md5": "5ac96654ebae38134257a849121dd1fe",
+        "sha1": "e34fbb4deffdd54c72b9af88821905c9517c2e96",
+        "sha256": "eb7eaff910c250591f915e23b75a295710b8d1263ff91441644d287ebff60ef3"
+      },
+      "dob": {
+        "date": "1981-04-21T13:33:55.630Z",
+        "age": 42
+      },
+      "registered": {
+        "date": "2003-06-23T18:39:49.543Z",
+        "age": 19
+      },
+      "phone": "0131-6036496",
+      "cell": "0171-2684177",
+      "id": 3,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/5.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Tess",
+        "last": "Roux"
+      },
+      "location": {
+        "street": {
+          "number": "4513!",
+          "name": "Rue Courbet!!!!"
+        },
+        "city": "Grenoble",
+        "state": "Tarn-et-Garonne",
+        "country": "France",
+        "postcode": 88515,
+        "coordinates": {
+          "latitude": "-14.6925",
+          "longitude": "174.4416"
+        },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "tess.roux@example.com",
+      "login": {
+        "uuid": "fe0a775e-dc88-4408-830a-e3649908ef11",
+        "username": "purpletiger317",
+        "password": "753951",
+        "salt": "WGHtdFIp",
+        "md5": "2b9a8722e676f888f8146fc74cc9660b",
+        "sha1": "39f8471cb90bdfeb892e282b211badc93b84f6e4",
+        "sha256": "e8478699d9ba79d1ae320dcb88e83b79f41430bc39435c310952def6d51f2356"
+      },
+      "dob": {
+        "date": "1968-08-28T08:17:07.382Z",
+        "age": 54
+      },
+      "registered": {
+        "date": "2008-04-27T20:41:15.018Z",
+        "age": 15
+      },
+      "phone": "03-05-89-10-38",
+      "cell": "06-27-37-88-33",
+      "id": 4,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/55.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Monsieur",
+        "first": "Friedrich",
+        "last": "Michel"
+      },
+      "location": {
+        "street": {
+          "number": 4584,
+          "name": "Rue Duquesne"
+        },
+        "city": "",
+        "state": "Neuchâtel",
+        "country": "Switzerland",
+        "postcode": 8243,
+        "coordinates": {
+          "latitude": "-56.9385",
+          "longitude": "-90.3130"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "friedrich.michel@example.com",
+      "login": {
+        "uuid": "5bd7e571-71a3-4e3d-b1f3-d1c1c49c25e3",
+        "username": "yellowduck854",
+        "password": "asdfghjk",
+        "salt": "DgPo5n1T",
+        "md5": "f91679cda5514412633c32a235af0556",
+        "sha1": "2a8d4fe0b92726225b12d7be3ccc07786cb400ff",
+        "sha256": "6ec6797132ddba3ad8f061a431ea8a89950919f7c367e58f5fade07fd5d21287"
+      },
+      "dob": {
+        "date": "1951-04-26T15:54:02.564Z",
+        "age": 72
+      },
+      "registered": {
+        "date": "2017-11-07T23:06:30.356Z",
+        "age": 5
+      },
+      "phone": "076 571 38 23",
+      "cell": "076 592 15 28",
+      "id": 5,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/10.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+      },
+      "nat": "CH"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Anton",
+        "last": "Johansen"
+      },
+      "location": {
+        "street": {
+          "number": 2037,
+          "name": "Kalundborgvej"
+        },
+        "city": "Billum",
+        "state": "Sjælland",
+        "country": "Denmark",
+        "postcode": 96656,
+        "coordinates": {
+          "latitude": "-44.7125",
+          "longitude": "-126.7756"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "anton.johansen@example.com",
+      "login": {
+        "uuid": "14d362df-5358-428d-a7c2-09a590c75cab",
+        "username": "smalldog145",
+        "password": "jewel",
+        "salt": "umvGkIY4",
+        "md5": "eca93eec59f826d6c97f0d62fe26639c",
+        "sha1": "bb0deeccda1fdf21fb2c728ba1e3fb116d7032ea",
+        "sha256": "c0f84f86227d33928af15bd56365289b4f08df1da2d69e0fcd7b742b491218ac"
+      },
+      "dob": {
+        "date": "1978-10-25T04:15:33.982Z",
+        "age": 44
+      },
+      "registered": {
+        "date": "2015-06-23T05:12:34.426Z",
+        "age": 7
+      },
+      "phone": "50743766",
+      "cell": "90359412",
+      "id": 6,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/31.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+      },
+      "nat": "DK"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Karen",
+        "last": "Bailey"
+      },
+      "location": {
+        "street": {
+          "number": 8190,
+          "name": "Brick Kiln Road"
+        },
+        "city": "Salisbury",
+        "state": "Oxfordshire",
+        "country": "United Kingdom",
+        "postcode": "D8 0QH",
+        "coordinates": {
+          "latitude": "-11.6738",
+          "longitude": "164.1287"
+        },
+        "timezone": {
+          "offset": "+1:00",
+          "description": "Brussels, Copenhagen, Madrid, Paris"
+        }
+      },
+      "email": "karen.bailey@example.com",
+      "login": {
+        "uuid": "80a7d1bb-5ae3-4cc7-b1d3-2d5012306e7e",
+        "username": "browndog853",
+        "password": "stoned",
+        "salt": "P5pXWBDe",
+        "md5": "4b426f3907c52ee6dc3217b014b20880",
+        "sha1": "3132c10bcda33c901a56948da435966c17a8ed4e",
+        "sha256": "6c37947f4fa2729c220c75c8d2c272ca7cf172e872574a5f4fdaefa5e5435845"
+      },
+      "dob": {
+        "date": "1964-03-27T13:20:39.375Z",
+        "age": 59
+      },
+      "registered": {
+        "date": "2003-02-18T19:34:18.471Z",
+        "age": 20
+      },
+      "phone": "016973 28541",
+      "cell": "07327 445849",
+      "id": 7,
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/10.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
+      },
+      "nat": "GB"
+    }
+  ]
+}
